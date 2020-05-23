@@ -1,0 +1,19 @@
+body, p {
+    font-family: arial, sans-serif;
+    font-size: small;
+}
+
+style {
+    display: none;
+}
+
+body {
+    background: #ffffff;
+    color: #222222;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
